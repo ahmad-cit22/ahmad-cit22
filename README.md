@@ -1,12 +1,12 @@
-<h1 align="center"><b>Hi , I'm Nafis Abdullah </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello there folks.. <br> I'm Nafis Abdullah </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+there+folks..&hearts;++;Full-stack+Web+App+Developer,;React+Developer,;Laravel+Developer+at+IMBD+Agency,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-stack+Web+App+Developer,;Laravel+Developer+at+IMBD+Agency,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <br>
 
-## <picture><img src = "https://github.com/ahmad-cit22/ahmad-cit22/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/ahmad-cit22/ahmad-cit22/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -26,19 +26,24 @@
 <br>
 
 <p align="center">
-
-- **Languages**:
-  ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
     
 - **Front-End Development**:
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS%20-%2314354C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap5](https://img.shields.io/badge/Bootstrap%20-%2314354C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/ReactJS%20-%2314354C.svg?style=for-the-badge&logo=react&logoColor=white)
+
+<br>
+
+- **Back-End Development**:
+
+  ![PHP](https://img.shields.io/badge/PHP%20-%2314354C.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel%20-%2314354C.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL%20-%2314354C.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase%20-%2314354C.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 <br>
 
@@ -95,7 +100,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/nafis-abdullah-ahmad-860052253" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  nafis-abdullah-ahmad-860052253-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
