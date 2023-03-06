@@ -100,7 +100,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/nafis-abdullah-ahmad-860052253" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  nafis-abdullah-ahmad-860052253-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  nafis-abdullah-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
