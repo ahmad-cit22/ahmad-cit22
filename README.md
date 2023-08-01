@@ -84,7 +84,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ahmad-cit22&theme=dark)
 
 <a href="https://github.com/ahmad-cit22/">
-	<img style="margin-left: 20px;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmad-cit22&theme=dark" width="450"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmad-cit22&theme=dark" width="450"/>
 </a>
 </div>
