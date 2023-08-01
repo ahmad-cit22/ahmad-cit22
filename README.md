@@ -76,7 +76,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmad-cit22)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmad-cit22&theme=dark)]
 
 <a href="https://github.com/ahmad-cit22/">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmad-cit22&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
