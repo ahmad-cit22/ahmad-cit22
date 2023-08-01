@@ -83,8 +83,8 @@
 
 
 <a href="https://github.com/ahmad-cit22/">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmad-cit22&theme=dark" width="420"/>
-	<img style="margin-left: 20px;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmad-cit22&theme=dark" width="480"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=ahmad-cit22&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+	<img style="margin-left: 20px;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmad-cit22&theme=dark" width="450"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmad-cit22&theme=dark" width="700"/>
 </a>
 </div>
