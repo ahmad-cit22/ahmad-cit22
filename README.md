@@ -76,6 +76,8 @@
 
 <div align="center">
 
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmad-cit22&show_icons=true&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ahmad-cit22&theme=algolia)
 
 <a href="https://github.com/ahmad-cit22/">
