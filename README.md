@@ -85,7 +85,13 @@
 </a>
 </div>
 
-[![Ahmad's github activity graph] (https://github-readme-activity-graph.vercel.app/graph?username=ahmad-cit22&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+            <img src="https://metrics.lecoq.io/ahmad-cit22?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmad-cit22&theme=onedark&title=MultiLanguage,Commit,Repo,PR">
+</p>
 
 <br>
 <br>
