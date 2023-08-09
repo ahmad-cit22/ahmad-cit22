@@ -85,6 +85,8 @@
 </a>
 </div>
 
+[![Ahmad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmad-cit22&theme=github-compact)](https://github.com/ahmad-cit22/github-readme-activity-graph)
+
 <br>
 <br>
 <br>
