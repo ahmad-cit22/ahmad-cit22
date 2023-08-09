@@ -86,7 +86,7 @@
 </div>
 
 <div>
-<p align="center" style="margin: 0 auto;">
+<p align="center" style="padding-left: 50px; margin-top: 50px">
     <img src="https://github-profile-trophy.vercel.app/?username=ahmad-cit22&theme=onedark&title=MultiLanguage,Commit,Repo,PR">
 </p>
 </div>
