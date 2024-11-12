@@ -12,10 +12,10 @@
 
 <br>
 
-- A Full-stack Web App developer (Having skills of ReactJS & Laravel)
+- A Full-stack Web App developer (Focusing on Backend with Laravel)
 - Currently working as a Web Developer at IMBD Agency Ltd. (Dhaka, Bangladesh)
-- Currently learning MERN Stack.
-- Personal website [link](https://ahmad-cit22.showwcase.com/)
+- Continuously learning more.
+- Personal Portfolio website [link](https://ahmad-cit22.showwcase.com/)
 
 <br><br>
 
@@ -29,12 +29,12 @@
     
 - **Front-End Development**:
 
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS%20-%2314354C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap5](https://img.shields.io/badge/Bootstrap%20-%2314354C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/ReactJS%20-%2314354C.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS%20-%2314354C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Bootstrap5](https://img.shields.io/badge/Bootstrap%20-%2314354C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![ReactJS](https://img.shields.io/badge/ReactJS%20-%2314354C.svg?style=for-the-badge&logo=react&logoColor=white)
 
 <br>
 
@@ -102,7 +102,7 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/nafis-abdullah-860052253" target="_blank">
+<a href="https://www.linkedin.com/in/nafis-abdullah" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  nafis-abdullah-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -134,7 +134,7 @@
 
 <div align='center'>
 
-## <b> Have a good day! ✨</b>
+## <b> Have a good day inshaAllah! ✨</b>
 
 </div>
 <br>
