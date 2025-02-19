@@ -131,19 +131,8 @@
 <br>
 <br>
 <br>
-
-<div align='center'>
-
-## <b> Have a good day inshaAllah! ✨</b>
-
-</div>
-<br>
-<br>
-<br>
 <br>
 
 ---
-
-<br>
 
 [Nafis Abdullah](https://github.com/ahmad-cit22)
