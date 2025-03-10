@@ -79,8 +79,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ahmad-cit22&theme=algolia)
 
 <a href="https://github.com/ahmad-cit22/">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmad-cit22&theme=algolia" width="400"/>
-	<img style="margin-left: 20px;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmad-cit22&theme=algolia" width="430"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmad-cit22&theme=algolia" width="700"/>
 </a>
 </div>
