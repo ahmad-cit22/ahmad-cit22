@@ -16,9 +16,10 @@
 - Currently working as a Software Engineer at Xgenious. (Dhaka, Bangladesh)
 - Learning more everyday.
 - Some of My PRs in Laravel:
-- - [#53538](https://github.com/laravel/framework/pull/53538) (Merged)
-  - [#56445](https://github.com/laravel/framework/pull/56445) (Merged)
-  - [#56371](https://github.com/laravel/framework/pull/56371) (On-hold)
+- - [#53538](https://github.com/laravel/framework/pull/53538) ([11.x] Fix: Improve Request Port Extraction Handling in ServeCommand.php to Prevent Artisan Command Failures: Merged)
+  - [#56445](https://github.com/laravel/framework/pull/56445) ([12.x] Enhancement: the beforeCommit method will now work even if using the ShouldQueueAfterCommit contract: Merged)
+  - [#56371](https://github.com/laravel/framework/pull/56371) ([12.x] Fix: Prevent saving of model instances created via withDefault() without valid foreign keys set: On-hold)
+  - [#57487](https://github.com/laravel/framework/pull/57487) ([12.x] Fix security vulnerability in previousPath() method, preventing from returning external URLs: On-hold)
 
 <br><br>
 
